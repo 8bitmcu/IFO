@@ -1,2 +1,8 @@
-urllib
-feedparser
+# git, urllib3, feedparser
+sudo apt-get install git python-urllib3 python-feedparser python—bs4 -y
+
+# clone repo
+git clone https://github.com/agashka/IFO.git
+
+# test code
+python IFO/main.py
